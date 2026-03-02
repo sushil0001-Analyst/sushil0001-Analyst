@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Sushil Prajapati 
 
-<!--
-**sushil0001-Analyst/sushil0001-Analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst passionate about transforming raw data into meaningful insights.
 
-Here are some ideas to get you started:
+📊 Skilled in Excel, Power BI, Python, and data visualization  
+🧹 Strong in data cleaning, reporting, and dashboard creation  
+📍 Mumbai, India  
+📩 Email: sushil80800@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+- 📈 Microsoft Excel (Advanced)
+- 📊 Power BI (Dashboard Development)
+- 🐍 Python (Pandas, Matplotlib)
+- 🧹 Data Cleaning & Analysis
+- 📉 Data Visualization
+- 📋 Reporting & MIS
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Loan Data Analysis Dashboard (Excel)
+Analyzed loan application data to identify repayment trends and risk patterns.
+
+👉 Tools: Excel, Pivot Tables, Data Cleaning  
+👉 Insights: Loan status distribution, employment impact, homeownership trends  
+
+---
+
+### 🔹 Sales Dashboard (Power BI)
+Interactive dashboard showing sales performance, regional trends, and KPIs.
+
+👉 Tools: Power BI, Data Modeling, Visualization  
+
+---
+
+### 🔹 Python Data Analysis Project
+Performed exploratory data analysis using Python to uncover trends and patterns.
+
+👉 Tools: Python, Pandas, Matplotlib  
+
+---
+
+## 📫 Connect With Me
+
+🔗 Portfolio: https://analystsushil.lovable.app  
+💼 LinkedIn:https://www.linkedin.com/in/sushil-prajapati-5abba6345?utm_source=share_via&utm_content=profile&utm_medium=member_android
+📧 Email: sushil80800@gmail.com  
+
+---
+
+⭐ Actively seeking entry-level opportunities in Data Analytics / MIS / Reporting roles
