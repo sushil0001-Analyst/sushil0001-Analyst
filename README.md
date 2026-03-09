@@ -35,12 +35,7 @@ Interactive dashboard showing sales performance, regional trends, and KPIs.
 
 👉 Tools: Power BI, Data Modeling, Visualization  
 
----
 
-### 🔹 Python Data Analysis Project
-Performed exploratory data analysis using Python to uncover trends and patterns.
-
-👉 Tools: Python, Pandas, Matplotlib  
 
 ---
 
