@@ -42,7 +42,7 @@ Interactive dashboard showing sales performance, regional trends, and KPIs.
 ## 📫 Connect With Me
 
 🔗 Portfolio: https://analystsushil.lovable.app  
-💼 LinkedIn:https://www.linkedin.com/in/sushil-prajapati-5abba6345?utm_source=share_via&utm_content=profile&utm_medium=member_android
+💼 LinkedIn:https:www.linkedin.com/in/prajapati-sushil
 📧 Email: sushil80800@gmail.com  
 
 ---
